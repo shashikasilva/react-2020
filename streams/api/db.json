@@ -1,0 +1,19 @@
+{
+  "streams": [
+    {
+      "title": "URStreamed",
+      "description": "This is sick!!",
+      "id": 1
+    },
+    {
+      "title": "Other Stream",
+      "description": "This is another stream",
+      "id": 2
+    },
+    {
+      "title": "Stream shashika",
+      "description": "shashika",
+      "id": 3
+    }
+  ]
+}
